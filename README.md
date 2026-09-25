@@ -7,7 +7,7 @@ A fullstack personalized crypto investor dashboard. Users sign up, complete a sh
 ## Live Demo
 
 - **Frontend (Vercel):** https://ori-ai-crypto-advisor-ten.vercel.app/login
-- **Backend API (Railway):** ori-ai-crypto-advisor-production.up.railway.app
+- **Backend API (Railway):** https://ori-ai-crypto-advisor-production.up.railway.app
 - **Health Check:** https://ori-ai-crypto-advisor-production.up.railway.app/api/health
 
 The frontend is deployed on Vercel and the backend API is deployed on Railway. The backend uses SQLite for simplicity — note that the database is non-persistent between Railway redeploys, so data may reset.
