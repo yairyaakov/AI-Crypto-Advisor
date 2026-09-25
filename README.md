@@ -6,7 +6,7 @@ A fullstack personalized crypto investor dashboard. Users sign up, complete a sh
 
 ## Live Demo
 
-- **Frontend (Vercel):** https://moveo-ai-crypto-advisor-ten.vercel.app/login
+- **Frontend (Vercel):** https://ori-ai-crypto-advisor-ten.vercel.app/login
 - **Backend API (Railway):** https://moveo-ai-crypto-advisor-production.up.railway.app
 - **Health Check:** https://moveo-ai-crypto-advisor-production.up.railway.app/api/health
 
